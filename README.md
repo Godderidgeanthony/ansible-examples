@@ -74,6 +74,7 @@ cela installe le systeme virtualenv Python dans la directory venv
 Faire  
 ```source venv/bin/activate```   
 Votre prompt change   
+
 ```(venv) [centos@ansible-oxiane-controller-2 ~]$```  
 Faire
 ```shell
